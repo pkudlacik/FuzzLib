@@ -597,7 +597,7 @@ public class FuzzySet {
 			addPoint(x, tmp);
 			x += width / 3.6;
 		}
-
+				
 		// 7,8,9,10,11 Point
 		x = center - width;
 		for (int i = 0; i < 4; i++) {
